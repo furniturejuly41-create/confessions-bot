@@ -1,14 +1,7 @@
-   # NEVER upload secrets
-   .env
-   
-   # Ignore local database
-   confessions.db
-   
-   # Ignore Python cache files
-   __pycache__/
-   *.pyc
-   *.pyo
-   
-   # Ignore virtual environments
-   venv/
-   env/
+.env
+confessions.db
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
