@@ -1,4 +1,14 @@
-.env
-__pycache__/
-*.pyc
-confessions.db
+   # NEVER upload secrets
+   .env
+   
+   # Ignore local database
+   confessions.db
+   
+   # Ignore Python cache files
+   __pycache__/
+   *.pyc
+   *.pyo
+   
+   # Ignore virtual environments
+   venv/
+   env/
