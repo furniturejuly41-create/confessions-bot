@@ -1,0 +1,13 @@
+🔒 Privacy Policy
+
+We collect:
+- Your Telegram user ID (required for functionality)
+- Optional nickname, emoji, and bio
+- Confession texts and comments (stored anonymously)
+
+We do NOT:
+- Share your personal data with third parties
+- Sell or monetize your information
+- Reveal your identity to other users without explicit consent
+
+By using this bot, you agree to these terms and our community rules.
